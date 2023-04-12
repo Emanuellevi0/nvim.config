@@ -1,1 +1,1 @@
-## Neovim configuration folder
+## Neovim setup init.lua
